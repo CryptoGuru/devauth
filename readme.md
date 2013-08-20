@@ -33,6 +33,7 @@ The plugin requires WordPress 3.4 or higher.
 
 **Installation**
 
+- Download the plugin from http://www.devauth.com/wordpress/devauth/DevAuth.zip
 - Upload the plugin to the `/wp-contents/plugins/` folder.
 - Activate the plugin from the 'Plugins' menu in WordPress.
 - Edit the config.php file in the plugin folder to define the database parameters such as $db_host,$db_name,$username and $password
